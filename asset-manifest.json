@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/beats-iran-store/static/css/main.d5d7ce6c.css",
-    "main.js": "/beats-iran-store/static/js/main.4f370afa.js",
+    "main.js": "/beats-iran-store/static/js/main.7bc5978a.js",
     "static/media/solo-pro-case.jpeg": "/beats-iran-store/static/media/solo-pro-case.db3bd280e8bde0b12dcb.jpeg",
     "static/media/urbeats3-lightning.jpeg": "/beats-iran-store/static/media/urbeats3-lightning.7bf7337db0553f7be84f.jpeg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/beats-iran-store/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -39,10 +39,10 @@
     "static/media/pill-plus.jpg": "/beats-iran-store/static/media/pill-plus.24a59a480d5c47ad688e.jpg",
     "index.html": "/beats-iran-store/index.html",
     "main.d5d7ce6c.css.map": "/beats-iran-store/static/css/main.d5d7ce6c.css.map",
-    "main.4f370afa.js.map": "/beats-iran-store/static/js/main.4f370afa.js.map"
+    "main.7bc5978a.js.map": "/beats-iran-store/static/js/main.7bc5978a.js.map"
   },
   "entrypoints": [
     "static/css/main.d5d7ce6c.css",
-    "static/js/main.4f370afa.js"
+    "static/js/main.7bc5978a.js"
   ]
 }
